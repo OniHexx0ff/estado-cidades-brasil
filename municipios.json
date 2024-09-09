@@ -808,7 +808,9 @@
         "Várzea Alegre",
         "Viçosa do Ceará"
     ],
-    "Distrito Federal": [],
+    "Distrito Federal": [
+        "Brasília"
+    ],
     "Espírito Santo": [
         "Água Doce do Norte",
         "Águia Branca",
