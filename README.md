@@ -1,4 +1,4 @@
-# Lista de Cidades e Estados do Brasil
+# Lista de Cidades e Estados do Brasil em 2024
 
 Este repositório contém uma lista atualizada de cidades e estados do Brasil com seus respectivos códigos. A lista foi obtida diretamente da página do IBGE sobre códigos de municípios e estados.
 
